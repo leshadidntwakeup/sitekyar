@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <catalog>
+        <menu>
+           <heading>Закуски</heading>
+        </menu>
+        <Sweettort>
+           <image>Мясное ассорти</image>
+            <compound>(Полендвица, огруцы, томаты, грибы, хрен)</compound>
+        </menu>
+        <menu1>
+           <heading>Ассорти овощное </heading>
+            <compound>Томаты, огурец, перец, зелень</compound>
+        </menu1>
+        <menu2>
+           <heading>Винное плато</heading>
+            <compound>Ассорти из сыров и медом и виноградом</compound>
+        </menu2>
+        <menu3>
+           <heading>Карпаччо из говядниы</heading>
+            <compound>Вырезка говяжья,масло оливковое, сыр, каперсы</compound>
+            </catalog>
